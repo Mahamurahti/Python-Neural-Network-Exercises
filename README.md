@@ -1,12 +1,12 @@
 ![Anaconda Logo](/res/Anaconda_Logo.png)
 
-# Python-Math-Exercises
+# Python-Neural-Network-Exercises
 
-A series of exercises solving math problems using Python. Focused mainly on machine learning.
+A series of exercises solving math and neural network problems using Python. Focused mainly on machine learning.
 
 Exercises completed via Anaconda.
 
-## Exercise Set 1
+## Math Exercise Set 1
 
 - Matrices
 - Matrix multiplication
