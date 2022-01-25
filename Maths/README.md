@@ -8,3 +8,9 @@ A series of exercises solving math problems with Python.
 - Matrix sum and multiplication
 - Scalars
 - Dot product
+
+## Exercise Set 02
+
+- Design matrices
+- Concatenation, reshaping, transposes
+- Plotting
