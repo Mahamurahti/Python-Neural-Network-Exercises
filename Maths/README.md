@@ -9,8 +9,12 @@ A series of exercises solving math problems with Python.
 - Scalars
 - Dot product
 
+> Contributor(s): Eric Keränen
+
 ## Exercise Set 02
 
 - Design matrices
 - Concatenation, reshaping, transposes
 - Plotting
+
+> Contributor(s): Eric Keränen

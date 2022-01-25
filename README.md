@@ -12,3 +12,5 @@ Used technologies in this project:
 ![Numpy Logo](/res/Numpy_Logo.png)
 ![Pandas Logo](/res/Pandas_Logo.png)
 ![Tensorflow Logo](/res/Tensorflow_Logo.png)
+![Seaborn Logo](/res/Seaborn_Logo.png)
+![Scikit Logo](/res/Scikit_Logo.png)
