@@ -22,8 +22,8 @@ A series of exercises solving method problems using Python.
 ## Exercise Set 03
 
 - Decision tree
-- Evualuating the decision trees accuracy
-- Validating the accuray via cross validation
-- Writing instructions based on the decision tree
+- Evaluating the decision trees accuracy
+- Validating the accuracy via cross validation
+- Writing instructions based on the decision trees image (graphviz)
 
 > Contributor(s): Eric Keränen, Samuel Aitamaa & Teemu Luhtanen
