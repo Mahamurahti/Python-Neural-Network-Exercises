@@ -27,3 +27,14 @@ A series of exercises solving method problems using Python.
 - Writing instructions based on the decision trees image (graphviz)
 
 > Contributor(s): Eric Keränen, Samuel Aitamaa & Teemu Luhtanen
+
+## Exercise Set 04
+
+- Linear regression
+- Data preprocessing
+- Correlations
+- Calculatin' regression equation (coefficients, explanatory variables, intercept)
+- Most useful variables according to coefficients
+- Evaluating the model using test set
+
+> Contributor(s): Eric Keränen, Samuel Aitamaa & Teemu Luhtanen
