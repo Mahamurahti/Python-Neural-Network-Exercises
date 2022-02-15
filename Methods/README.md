@@ -38,3 +38,13 @@ A series of exercises solving method problems using Python.
 - Evaluating the model using test set
 
 > Contributor(s): Eric Keränen, Samuel Aitamaa & Teemu Luhtanen
+
+## Exercise Set 05
+
+- Logistic regression
+- Handling input in Python
+- Correlations
+- Data scaling
+- Probabilities and scoring
+
+> Contributor(s): Eric Keränen, Samuel Aitamaa & Teemu Luhtanen
