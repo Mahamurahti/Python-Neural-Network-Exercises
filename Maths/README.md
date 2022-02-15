@@ -18,3 +18,17 @@ A series of exercises solving math problems with Python.
 - Plotting
 
 > Contributor(s): Eric Keränen
+
+## Exercise Set 05
+
+- Gradient descent
+- Local minima
+
+> Contributor(s): Eric Keränen
+
+## Exercise Set 06
+
+- Logistic regression
+- Small neural network calculations
+
+> Contributor(s): Eric Keränen
