@@ -14,3 +14,4 @@ Used technologies in this project:
 ![Tensorflow Logo](/res/Tensorflow_Logo.png)
 ![Seaborn Logo](/res/Seaborn_Logo.png)
 ![Scikit Logo](/res/Scikit_Logo.png)
+![Surprise Logo](/res/Surprise_Logo.png)
