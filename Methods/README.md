@@ -48,3 +48,12 @@ A series of exercises solving method problems using Python.
 - Probabilities and scoring
 
 > Contributor(s): Eric Keränen, Samuel Aitamaa & Teemu Luhtanen
+
+## Exercise Set 06
+
+- Recommendation engine
+- Surprise library
+- Tried 4 different recommendation algorithms
+- Recommended data for an individual in the dataset
+
+> Contributor(s): Eric Keränen, Samuel Aitamaa & Teemu Luhtanen
