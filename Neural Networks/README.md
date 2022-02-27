@@ -24,3 +24,18 @@ A series of exercises (cases) solving neural network problems using Python.
 - Using various libraries to achieve the goal
 
 > Contributor(s): Eric Keränen, Samuel Aitamaa & Teemu Luhtanen
+
+## Case 02
+
+- Binary image classification
+- Creation of convolutional neural network models
+- Reassembling the datasets to be more fair
+- Data / Image augmentation
+- Three different models
+- Training said models and
+- Evaluating said models
+- Printing out images
+- Evaluating plots, confusion matrices and classification reports
+- Finding information from other authors
+
+> Contributor(s): Eric Keränen, Samuel Aitamaa & Teemu Luhtanen
