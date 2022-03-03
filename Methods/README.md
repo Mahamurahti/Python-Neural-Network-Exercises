@@ -57,3 +57,12 @@ A series of exercises solving method problems using Python.
 - Recommended data for an individual in the dataset
 
 > Contributor(s): Eric Keränen, Samuel Aitamaa & Teemu Luhtanen
+
+## Exercise Set 07
+
+- Text analytics
+- Text preprocessing (stopwords / lemmatization)
+- NLTK library
+- Analyzed short stories / fairy tales
+
+> Contributor(s): Eric Keränen, Samuel Aitamaa & Teemu Luhtanen
