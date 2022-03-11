@@ -39,3 +39,19 @@ A series of exercises (cases) solving neural network problems using Python.
 - Finding information from other authors
 
 > Contributor(s): Eric Keränen, Samuel Aitamaa & Teemu Luhtanen
+
+## Case 03
+
+- Multiclass text classification
+- Creation of recurrent neural network models
+- Stopwords
+- Lemmatization
+- Removing HTML from text
+- Tokenization
+- Sequencing
+- Three different models (LSTM, GRU, Conv1D)
+- Training said models and
+- Evaluating said models
+- Evaluating plots, confusion matrices and classification reports
+
+> Contributor(s): Eric Keränen, Samuel Aitamaa & Teemu Luhtanen
