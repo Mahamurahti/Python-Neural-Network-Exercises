@@ -49,6 +49,7 @@ A series of exercises (cases) solving neural network problems using Python.
 - Removing HTML from text
 - Tokenization
 - Sequencing
+- Multiclass weights
 - Three different models (LSTM, GRU, Conv1D)
 - Training said models and
 - Evaluating said models
